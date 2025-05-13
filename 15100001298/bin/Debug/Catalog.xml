@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<ArrayOfCatalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Catalog>
+    <ProductID>312</ProductID>
+    <ProductName>cat food</ProductName>
+    <ProductBrand>whiskas</ProductBrand>
+    <Size>30 grams</Size>
+    <Flavor>chicken</Flavor>
+    <AnimalType>cat</AnimalType>
+    <Price>350</Price>
+    <Category>food</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>221</ProductID>
+    <ProductName>dog food</ProductName>
+    <ProductBrand>pedigree</ProductBrand>
+    <Size>100 grams</Size>
+    <Flavor>chicken</Flavor>
+    <AnimalType>dog</AnimalType>
+    <Price>250</Price>
+    <Category>food</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>222</ProductID>
+    <ProductName>dog food</ProductName>
+    <ProductBrand>max dog food</ProductBrand>
+    <Size>1000 grams</Size>
+    <Flavor>meat</Flavor>
+    <AnimalType>dog</AnimalType>
+    <Price>800</Price>
+    <Category>food</Category>
+    <Quantity>25</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>325</ProductID>
+    <ProductName>pet food</ProductName>
+    <ProductBrand>pedigree</ProductBrand>
+    <Size>1000 grams</Size>
+    <Flavor>meat</Flavor>
+    <AnimalType>all</AnimalType>
+    <Price>1250</Price>
+    <Category>food</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>328</ProductID>
+    <ProductName>dog food</ProductName>
+    <ProductBrand>pedigree</ProductBrand>
+    <Size>250 grams</Size>
+    <Flavor>beef</Flavor>
+    <AnimalType>dog</AnimalType>
+    <Price>750</Price>
+    <Category>food</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>231</ProductID>
+    <ProductName>cat food</ProductName>
+    <ProductBrand>birbo</ProductBrand>
+    <Size>250 grams</Size>
+    <Flavor>fish</Flavor>
+    <AnimalType>cat</AnimalType>
+    <Price>200</Price>
+    <Category>food</Category>
+    <Quantity>30</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>111</ProductID>
+    <ProductName>pet shampoo</ProductName>
+    <ProductBrand>bio groom</ProductBrand>
+    <Size>30 ml</Size>
+    <Flavor />
+    <AnimalType>all</AnimalType>
+    <Price>290</Price>
+    <Category>grooming</Category>
+    <Quantity>30</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>190</ProductID>
+    <ProductName>pet shampoo</ProductName>
+    <ProductBrand>earthbath oatmeal</ProductBrand>
+    <Size>100 ml</Size>
+    <Flavor />
+    <AnimalType>all</AnimalType>
+    <Price>500</Price>
+    <Category>grooming</Category>
+    <Quantity>30</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>141</ProductID>
+    <ProductName>pet shampoo</ProductName>
+    <ProductBrand>furboo</ProductBrand>
+    <Size>50 ml</Size>
+    <Flavor />
+    <AnimalType>all</AnimalType>
+    <Price>400</Price>
+    <Category>grooming</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>122</ProductID>
+    <ProductName>pet soap</ProductName>
+    <ProductBrand>vguard</ProductBrand>
+    <Size>10 grams</Size>
+    <Flavor />
+    <AnimalType>all</AnimalType>
+    <Price>110</Price>
+    <Category>grooming</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>124</ProductID>
+    <ProductName>pet soap</ProductName>
+    <ProductBrand>xguard</ProductBrand>
+    <Size>10 grams</Size>
+    <Flavor>mint</Flavor>
+    <AnimalType>all</AnimalType>
+    <Price>200</Price>
+    <Category>grooming</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>181</ProductID>
+    <ProductName>pet brush</ProductName>
+    <ProductBrand>pedigree</ProductBrand>
+    <Size />
+    <Flavor />
+    <AnimalType>dog</AnimalType>
+    <Price>200</Price>
+    <Category>grooming</Category>
+    <Quantity>30</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>140</ProductID>
+    <ProductName>pet brush</ProductName>
+    <ProductBrand>whiskas</ProductBrand>
+    <Size />
+    <Flavor />
+    <AnimalType>cat</AnimalType>
+    <Price>250</Price>
+    <Category>grooming</Category>
+    <Quantity>50</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>244</ProductID>
+    <ProductName>pet bone</ProductName>
+    <ProductBrand>pedigree</ProductBrand>
+    <Size>10 inches</Size>
+    <Flavor />
+    <AnimalType>dog</AnimalType>
+    <Price>150</Price>
+    <Category>dog</Category>
+    <Quantity>10</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>462</ProductID>
+    <ProductName>pet cage</ProductName>
+    <ProductBrand>alamano</ProductBrand>
+    <Size>50x50x50</Size>
+    <Flavor />
+    <AnimalType>cat</AnimalType>
+    <Price>1500</Price>
+    <Category>grooming</Category>
+    <Quantity>5</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>150</ProductID>
+    <ProductName>pet soap</ProductName>
+    <ProductBrand>whiskers</ProductBrand>
+    <Size>10 grams</Size>
+    <Flavor>mint</Flavor>
+    <AnimalType>cat</AnimalType>
+    <Price>200</Price>
+    <Category>grooming</Category>
+    <Quantity>22</Quantity>
+  </Catalog>
+  <Catalog>
+    <ProductID>482</ProductID>
+    <ProductName>pet toy</ProductName>
+    <ProductBrand>whiskers</ProductBrand>
+    <Size>10 inch</Size>
+    <Flavor />
+    <AnimalType>cat</AnimalType>
+    <Price>150</Price>
+    <Category>dog</Category>
+    <Quantity>20</Quantity>
+  </Catalog>
+</ArrayOfCatalog>

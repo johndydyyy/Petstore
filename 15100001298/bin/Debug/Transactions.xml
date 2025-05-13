@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTransaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transaction>
+    <ProductName>cat food</ProductName>
+    <QuantityPurchased>1</QuantityPurchased>
+    <TotalPrice>200</TotalPrice>
+    <Change>2022</Change>
+    <UserFirstName>john</UserFirstName>
+    <UserLastName>dayaday</UserLastName>
+    <UserEmail>johndydy1@gmail.com</UserEmail>
+    <UserAddress>ochoa</UserAddress>
+    <UserPhoneNo>029292</UserPhoneNo>
+    <PaymentMethod>Cash</PaymentMethod>
+    <ReceivedAmount>2222</ReceivedAmount>
+  </Transaction>
+  <Transaction>
+    <ProductName>cat food</ProductName>
+    <QuantityPurchased>2</QuantityPurchased>
+    <TotalPrice>400</TotalPrice>
+    <Change>4600</Change>
+    <UserFirstName>john</UserFirstName>
+    <UserLastName>hermosa</UserLastName>
+    <UserEmail>johnh@gmail.com</UserEmail>
+    <UserAddress>ochoa</UserAddress>
+    <UserPhoneNo>099999</UserPhoneNo>
+    <PaymentMethod>Cash</PaymentMethod>
+    <ReceivedAmount>5000</ReceivedAmount>
+  </Transaction>
+  <Transaction>
+    <ProductName>cat food</ProductName>
+    <QuantityPurchased>5</QuantityPurchased>
+    <TotalPrice>1000</TotalPrice>
+    <Change>4000</Change>
+    <UserFirstName>john</UserFirstName>
+    <UserLastName>dayaday</UserLastName>
+    <UserEmail>johndydy1@gmail.com</UserEmail>
+    <UserAddress>ochoa</UserAddress>
+    <UserPhoneNo>092982892</UserPhoneNo>
+    <PaymentMethod>Cash</PaymentMethod>
+    <ReceivedAmount>5000</ReceivedAmount>
+  </Transaction>
+  <Transaction>
+    <ProductName>cat food</ProductName>
+    <QuantityPurchased>2</QuantityPurchased>
+    <TotalPrice>340.00</TotalPrice>
+    <Change>4660.00</Change>
+    <UserFirstName>asd</UserFirstName>
+    <UserLastName>asd</UserLastName>
+    <UserEmail>sd</UserEmail>
+    <UserAddress>sd</UserAddress>
+    <UserPhoneNo>34241</UserPhoneNo>
+    <PaymentMethod>PayMaya</PaymentMethod>
+    <ReceivedAmount>5000</ReceivedAmount>
+  </Transaction>
+</ArrayOfTransaction>
